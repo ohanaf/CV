@@ -1,0 +1,20 @@
+body {
+  background-color: linen;
+}
+img{
+  border-radius: 50%;
+  height: 80%;
+  border:2px solid #8B4513;
+}
+hr{
+  border-color:grey;
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 5px;
+}
+h1{
+  color: 	#8B4513;
+}
+h3{
+  color: 	#CD853F;
+}
